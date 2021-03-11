@@ -1,0 +1,7 @@
+﻿  ATM machine.cpp
+C:\Users\Raccoon\source\repos\ATM machine\ATM machine\ATM machine.cpp(290,8): warning C4552: "<<": результат выражения не используется
+C:\Users\Raccoon\source\repos\ATM machine\ATM machine\ATM machine.cpp(118): warning C4715: WithdrawalOwnSumLargeBills: значение возвращается не при всех путях выполнения
+C:\Users\Raccoon\source\repos\ATM machine\ATM machine\ATM machine.cpp(199): warning C4715: WithdrawalStandardSum: значение возвращается не при всех путях выполнения
+C:\Users\Raccoon\source\repos\ATM machine\ATM machine\ATM machine.cpp(283): warning C4715: WithdrawalMoneyWithChange: значение возвращается не при всех путях выполнения
+C:\Users\Raccoon\source\repos\ATM machine\ATM machine\ATM machine.cpp(335): warning C4715: cycle: значение возвращается не при всех путях выполнения
+  ATM machine.vcxproj -> C:\Users\Raccoon\source\repos\ATM machine\Debug\ATM machine.exe
